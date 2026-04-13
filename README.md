@@ -44,7 +44,6 @@ Welcome to the Book My Show App Deployment project! This project demonstrates ho
 - Deploy the application to an Amazon EKS (Elastic Kubernetes Service) cluster  
 - Set up Prometheus and Grafana for monitoring and visualization  
 - Implement Trivy for vulnerability scanning and OWASP for security best practices
-## 🚦 Project Stages
 
 ---
 
@@ -55,4 +54,10 @@ Welcome to the Book My Show App Deployment project! This project demonstrates ho
 - Run Docker container  
 - Deploy on Kubernetes (EKS)  
 - Access application via LoadBalancer
+
+---
+
+## 🔗 Repository
+
+👉
 
