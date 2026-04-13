@@ -59,5 +59,5 @@ Welcome to the Book My Show App Deployment project! This project demonstrates ho
 
 ## 🔗 Repository
 
-👉
+👉 https://github.com/Siddiqa-07/bookmyshow-devops-project
 
